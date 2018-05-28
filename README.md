@@ -1,6 +1,6 @@
 # E-commerce-website
 
-E-commerce website to offer products with diffrent categories and allow users to serach and filter them
+E-commerce website to offer products with different categories and allow users to search and filter them.
 
 Using:
  - HTML 5
